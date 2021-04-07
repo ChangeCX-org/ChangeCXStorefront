@@ -77,8 +77,8 @@ export default {
       '@vue-storefront/shopify/nuxt',
       {
         api: {
-          domain: 'southindianbusiness.myshopify.com',
-          storefrontAccessToken: '17f096dd019331c3d295ecb8cc28668b'
+          domain: 'changecxstorefront.myshopify.com',
+          storefrontAccessToken: '3ab753a21b8ca177e538be6e67cbed8d'
         },
         i18n: {
           useNuxtI18nConfig: true
